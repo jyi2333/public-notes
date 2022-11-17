@@ -8,4 +8,4 @@ To preview it, use `Ctrl + K, V`, type `Ctrl + K` , then seperately `V`, not at 
 
 ---
 
-*just personal notes during capstone project, in case I forget some commands and configuration stuff. So not only notes on RHEL8, also notes on Ubuntu (Pop!_OS), and maybe there will be notes on Arch (Manjaro) and Windows someday.
+*personal notes during capstone project and WS2022, in case I forget some commands and configuration stuff. So not only notes on RHEL8, also notes on Ubuntu (Pop!_OS), and maybe there will be notes on Arch (Manjaro) and Windows someday. Yeah, maybe also notes on other softwares (vim, cmake, vulkan) on Linux etc. (just ignore them if they are useless to you)
